@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum scale=1.0">
+    <title>Engenharia de Software?</title>
+
+    <style>
+        h1,
+        h2,
+        h3 {
+            color: #0000FF;
+            font-family: 'Times New Roman';
+        }
+
+        p {
+            color: #000000;
+            font-family: 'Times New Roman';
+            font-size: 20PX;
+        }
+
+        img {
+            width: 35%;
+            height: 35%;
+        }
+
+        * {
+            margin: 0PX;
+            border: 0PX;
+            padding: 10PX;
+        }
+
+        #engesoft {
+            background-color: #4169E1;
+            text-align: center;
+        }
+
+        .titulorodape {
+            margin: 0PX;
+            background-color: #4169E1;
+            text-align: center;
+            color: #FFFFFF;
+        }
+
+        .rodape {
+            margin: 0PX;
+            background-color: #4169E1;
+            text-align: center;
+            color: #FFFFFF;
+        }
+
+        header {
+            background-color: #FFFFFF;
+            color: #000000;
+            font-size: 20PX;
+        }
+    </style>
+    
+</head>
+
+<figure id="engesoft">
+    <img src="image/engesoft.png" alt="imagem do topo">
+</figure>
+
+<body>
+    <h1>
+        O que é a Engenharia de Software ?
+    </h1>
+
+    <p>
+        É um conjunto de <b>atividades, processos e ferramentas</b> para para o desenvolvimento de software. A
+        engenharia de
+        software abrange todo o processo do desenvolvimento de software, como: levantamento de requisitos, projeto,
+        implementação, testes, implantação e operação dos sistemas.
+    </p>
+
+    <h2>
+        O que faz o Engenheiro de Software ?
+    </h2>
+
+    <p>
+        É o profissional responsável em planejar, projetar e acompanhar o desenvolvimento de <strong>sistemas de
+            software</strong>. É o
+        profissional com formação em cursos de graduação, como: Engenharia de Software, Engenharia da Computação,
+        Sistemas de Informação, Engenharia de Automação e Ciência da Computação.
+    </p>
+
+    <h2>
+        O que é o Software ?
+    </h2>
+
+    <p>
+        Trata-se do conjunto de instruções lógicas que serão executadas por um computador ou sistema de processamento de
+        dados, para orientar o que uma máquina deverá fazer.
+    </p>
+</body>
+
+<footer>
+    <h3 class="titulorodape">Informações sobre a página:</h3>
+    <p class="rodape">Disciplina Engenharia de Software<br>
+    Conceitos Básicos</p>
+</footer>
+
+<header>
+    <p>Para mais informações sobre a engenharia de software acesse:
+    <a href = https://en.wikipedia.org/wiki/Software_engineering/ target="_blank" rel="noopener noreferrer">WIKI - Engenharia de Software</a></p>
+</header>
+
+</html>
